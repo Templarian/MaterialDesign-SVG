@@ -1,0 +1,16 @@
+{
+  "name": "mdi-svg",
+  "description": "Material Design Icons SVG",
+  "main": "index.js",
+  "authors": [
+    "Austin Andrews"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "mdi"
+  ],
+  "homepage": "https://materialdesignicons.com/"
+}
