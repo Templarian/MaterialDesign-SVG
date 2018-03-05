@@ -1,8 +1,7 @@
 {
   "name": "mdi-svg",
-  "version": "2.1.19",
+  "version": "2.1.99",
   "description": "Material Design Icons SVG",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
