@@ -5,7 +5,7 @@
 SVG Dist for NPM/Bower.
 
 ```
-npm install mdi-svg
+npm install @mdi/svg
 bower install mdi-svg
 ```
 
