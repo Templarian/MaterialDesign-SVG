@@ -9,13 +9,13 @@ npm install @mdi/svg
 bower install mdi-svg
 ```
 
-> For the webfont please use the [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) distribution.
->
 > Versions prior to `2.2.43` can be accessed on npm via `mdi-svg`
 
 # Related Packages
 
 [NPM @MDI Organization](https://npmjs.com/org/mdi)
+
+> Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
 
 ## Third Party
 
