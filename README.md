@@ -1,8 +1,8 @@
 > *Note:* Please use the main [MaterialDesign](https://github.com/Templarian/MaterialDesign/issues) repo to report issues. This repo is for distribution of the SVG files only.
 
-# Material Design SVG Distribution
+# SVG - Material Design Icons
 
-SVG distribution repository.
+SVG distribution for the [Material Design Icons](https://materialdesignicons.com).
 
 ```
 npm install @mdi/svg
