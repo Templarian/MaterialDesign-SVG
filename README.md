@@ -2,7 +2,7 @@
 
 # Material Design SVG Distribution
 
-SVG Dist for NPM/Bower.
+SVG distribution repository.
 
 ```
 npm install @mdi/svg
