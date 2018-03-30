@@ -27,3 +27,8 @@ Great uses of the SVG Icon distribution includes:
 - Writing addons/plugins to integrate with applications.
 - Themes - Every theme needs icons.
 - AngularJS/Angular/React Components to work with the icons.
+
+## Learn More
+
+- [MaterialDesignIcons.com](https://materialdesignicons.com)
+- https://github.com/Templarian/MaterialDesign
