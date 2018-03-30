@@ -1,4 +1,4 @@
-> *Note:* Please use the main [MaterialDesign](https://github.com/Templarian/MaterialDesign/issues) repo to report issues. This repo is for distribution of the SVG files only for third party applications/libraries/etc.
+> *Note:* Please use the main [MaterialDesign](https://github.com/Templarian/MaterialDesign/issues) repo to report issues. This repo is for distribution of the SVG files only.
 
 # Material Design SVG Distribution
 
