@@ -1,15 +1,21 @@
-> *Note:* Please use the main [MaterialDesign](https://github.com/Templarian/MaterialDesign/issues) repo to report issues. This repo is for distribution of the SVG files only for third party applications/libraries/etc.
+> *Note:* Please use the main [MaterialDesign](https://github.com/Templarian/MaterialDesign/issues) repo to report issues. This repo is for distribution of the SVG files only.
 
-# Material Design SVG Distribution
+# SVG - Material Design Icons
 
-SVG Dist for NPM/Bower.
+SVG distribution for the [Material Design Icons](https://materialdesignicons.com).
 
 ```
-npm install mdi-svg
+npm install @mdi/svg
 bower install mdi-svg
 ```
 
-> For the webfont please use the [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) distribution.
+> Versions prior to `2.2.43` can be accessed on npm via `mdi-svg`
+
+## Related Packages
+
+[NPM @MDI Organization](https://npmjs.com/org/mdi)
+
+- Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
 
 ## Third Party
 
@@ -21,3 +27,8 @@ Great uses of the SVG Icon distribution includes:
 - Writing addons/plugins to integrate with applications.
 - Themes - Every theme needs icons.
 - AngularJS/Angular/React Components to work with the icons.
+
+## Learn More
+
+- [MaterialDesignIcons.com](https://materialdesignicons.com)
+- https://github.com/Templarian/MaterialDesign
