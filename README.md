@@ -15,6 +15,7 @@ bower install mdi-svg
 
 [NPM @MDI Organization](https://npmjs.com/org/mdi)
 
+- JavaScript/Typescript: [MaterialDesign-JS](https://github.com/Templarian/MaterialDesign-JS)
 - Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
 
 ## Third Party
