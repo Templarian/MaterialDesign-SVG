@@ -9,7 +9,7 @@ npm install @mdi/svg
 bower install mdi-svg
 ```
 
-> Versions prior to `2.2.43` can be accessed on npm via `mdi-svg`
+> Versions prior to `2.3.54` can be accessed on npm via `mdi-svg`
 
 ## Related Packages
 
