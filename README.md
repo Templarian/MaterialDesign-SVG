@@ -6,7 +6,6 @@ SVG distribution for the [Material Design Icons](https://materialdesignicons.com
 
 ```
 npm install @mdi/svg
-bower install mdi-svg
 ```
 
 > Versions prior to `2.2.43` can be accessed on npm via `mdi-svg`
@@ -17,6 +16,7 @@ bower install mdi-svg
 
 - JavaScript/Typescript: [MaterialDesign-JS](https://github.com/Templarian/MaterialDesign-JS)
 - Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
+- Font-Build: [MaterialDesign-Font-Build](https://github.com/Templarian/MaterialDesign-Font-Build)
 
 ## Third Party
 

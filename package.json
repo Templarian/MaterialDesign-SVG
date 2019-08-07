@@ -1,6 +1,6 @@
 {
   "name": "@mdi/svg",
-  "version": "3.8.95",
+  "version": "3.9.96",
   "description": "Material Design Icons SVG",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
