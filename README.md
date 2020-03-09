@@ -17,6 +17,7 @@ npm install @mdi/svg
 - JavaScript/Typescript: [MaterialDesign-JS](https://github.com/Templarian/MaterialDesign-JS)
 - Webfont: [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
 - Font-Build: [MaterialDesign-Font-Build](https://github.com/Templarian/MaterialDesign-Font-Build)
+- Desktop Font: [MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font)
 
 ## Third Party
 

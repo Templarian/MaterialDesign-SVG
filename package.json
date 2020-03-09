@@ -1,6 +1,6 @@
 {
   "name": "@mdi/svg",
-  "version": "4.9.95",
+  "version": "5.0.45",
   "description": "Material Design Icons SVG",
   "scripts": {
     "verify": "node scripts/verify.js",
