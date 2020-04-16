@@ -19,11 +19,17 @@ if (files.length === icons.length) {
 } else {
   console.error('Error: meta.json or svg folder out of sync!');
 }
+const set = new Set();
 icons.forEach(icon => {
+  set.add(icon.name.replace(/-/g, ''));
   if (files.includes(`${icon.name}.svg`)) {
     // Good
   } else {
     console.error(`Error: ${icon.name} not found!`);
   }
 });
+if (icons.length !== set.size) {
+  // Ex: textbox === text-box, will error
+  console.error('Error: An icon name conflicts when hyphen is removed!');
+}
 console.log('Done!');
