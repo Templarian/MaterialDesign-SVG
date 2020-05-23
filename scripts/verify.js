@@ -32,4 +32,16 @@ if (icons.length !== set.size) {
   // Ex: textbox === text-box, will error
   console.error('Error: An icon name conflicts when hyphen is removed!');
 }
+// Console error all duplicates
+const findDuplicates = arr => arr.filter((item, index) => arr.indexOf(item) != index);
+icons.forEach(icon => {
+  const aliasDups = findDuplicates(icon.aliases);
+  if (aliasDups.length > 0) {
+    console.error(`Error: Aliases "${icon.name}" has duplicates "${aliasDups.join('", "')}"`);
+  }
+  const tagDups = findDuplicates(icon.tags);
+  if (tagDups.length > 0) {
+    console.error(`Error: Tags "${icon.name}" has duplicates "${tagDups.join('", "')}"`);
+  }
+});
 console.log('Done!');
