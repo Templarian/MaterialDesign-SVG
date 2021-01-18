@@ -1,0 +1,7 @@
+{
+    "name": "mdi/svg",
+    "description": "Material Design Icons SVG",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
