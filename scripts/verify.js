@@ -21,7 +21,11 @@ if (files.length === icons.length) {
 }
 const set = new Set();
 icons.forEach(icon => {
-  set.add(icon.name.replace(/-/g, ''));
+  const nohyphen = icon.name.replace(/-/g, '');
+  if (set.has(nohyphen)) {
+    console.error(`Error: duplicate no hyphen name "${nohyphen}" / "${icon.name}"`);
+  }
+  set.add(nohyphen);
   if (files.includes(`${icon.name}.svg`)) {
     // Good
   } else {
