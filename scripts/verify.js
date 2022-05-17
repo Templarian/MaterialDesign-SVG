@@ -34,7 +34,8 @@ icons.forEach(icon => {
 });
 if (icons.length !== set.size) {
   // Ex: textbox === text-box, will error
-  console.error('Error: An icon name conflicts when hyphen is removed!');
+  // Ex: calendar-weekend === calendar-week-end, will also error
+  console.error('Error: An icon name conflicts when hyphens are removed!');
 }
 // Console error all duplicates
 const findDuplicates = arr => arr.filter((item, index) => arr.indexOf(item) != index);
